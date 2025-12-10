@@ -4,6 +4,3 @@ I'm a self-taught software developer who enjoys building creative tools, explori
 
 ### 🛠 Core Tools & Skills
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,godot)
-
-### 📈 Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=GOSijnr&theme=dark&hide_border=true)](https://git.io/streak-stats)
